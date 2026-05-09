@@ -84,11 +84,18 @@
 
 </div>
 
-### 🛡️ Cybersecurity & Tools
+
+
+### 🔎 Cybersecurity & OSINT Focus
 
 <div align="center">
 
-<img src="https
+
+- 🧩 CTF problem solving (TryHackMe / HackTheBox beginner level)
+- 🔍 OSINT techniques (Google Dorks, metadata analysis, recon basics)
+- 🌐 Web security fundamentals (XSS, SQLi awareness stage)
+- 🧪 Linux command line & system navigation
+
 
 ---
 
