@@ -88,7 +88,6 @@
 
 ### 🔎 Cybersecurity & OSINT Focus
 
-<div align="center">
 
 
 - 🧩 CTF problem solving (TryHackMe / HackTheBox beginner level)
@@ -195,8 +194,8 @@ Cybersecurity-oriented project focused on security concepts and practical implem
 # 🐍 Contribution Snake
 
 <div align="center">
-
-![snake gif](https://github.com/adammoos/adammoos/blob/output/github-contribution-grid-snake-dark.svg)
+  
+![snake gif](https://raw.githubusercontent.com/adammoos/adammoos/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
