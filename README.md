@@ -155,7 +155,15 @@ AI/ML project for behavior detection and analysis.
 
 ## 🛡️ CyberHero
 
-Cybersecurity-oriented project focused on security concepts and practical implementation.
+🔗 https://cybershield-tunisia.vercel.app
+
+Cybersecurity awareness platform focused on educating users about digital threats and safe online behavior.
+
+Tech Used
+Web Development
+JavaScript / HTML / CSS
+Responsive UI Design
+Cybersecurity Awareness Concepts
 
 ---
 
